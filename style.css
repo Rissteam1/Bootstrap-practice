@@ -1,0 +1,27 @@
+.container{
+    border: 8px solid red;
+
+}
+.row{
+    border: 1px solid green;
+}
+.col{
+    border: 1px solid black;
+}
+#header{
+    background-color: aquamarine;
+    padding: 10px 0px 10px 10px;
+}
+#menu{
+    background-color: rgb(255, 127, 127);
+    padding: 10px 0px 10px 10px;
+}
+#content{
+    background-color: rgb(127, 153, 255);
+    padding: 10px 0px 10px 10px;
+}
+#sidebar{
+    background-color: rgb(250, 110, 255);
+    padding: 10px 0px 10px 10px;
+}
+
