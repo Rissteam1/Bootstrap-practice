@@ -4,9 +4,11 @@
 }
 .row{
     border: 1px solid green;
+
 }
 .col{
     border: 1px solid black;
+   
 }
 #header{
     background-color: aquamarine;
@@ -23,5 +25,8 @@
 #sidebar{
     background-color: rgb(250, 110, 255);
     padding: 10px 0px 10px 10px;
+}
+.content{
+    height: 400px;
 }
 
