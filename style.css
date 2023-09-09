@@ -29,4 +29,23 @@
 .content{
     height: 400px;
 }
+.nav{
+    background: darkcyan;
+
+
+}
+.nav-link{
+    color: white !important;
+    font-size: 20px !important;
+
+}
+.nav-link:hover{
+    background: sandybrown;
+    color: white;
+}
+.nav-link:hover,
+.nav-link.active{
+    color: rgb(255, 255, 255);
+    background: sandybrown;
+}
 
